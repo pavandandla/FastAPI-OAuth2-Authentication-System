@@ -6,11 +6,12 @@ Requirements: Implement third-party authentication using Authlib and secure the 
 Tools: FastAPI, Authlib, JWT
 
 Features:
-    - FastAPI provides the web framework foundation
-    - SQLAlchemy handles database operations
-    - OAuth2 manages authentication
-    - JWT handles secure token-based operations
-    - Middleware manages cross-cutting concerns
-    - Templates handle view rendering
-    - Configuration manages application settings
-    - Project structure ensures maintainability
+
+ - FastAPI provides the web framework foundation
+ - SQLAlchemy handles database operations
+ - OAuth2 manages authentication
+ - JWT handles secure token-based operations
+ - Middleware manages cross-cutting concerns
+ - Templates handle view rendering
+ - Configuration manages application settings
+ - Project structure ensures maintainability
